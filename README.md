@@ -2,11 +2,11 @@
 
 **Systems Engineer · Stanford M.S. Electrical Engineering · Applied AI & Research**
 
-Engineer with **14+ years of industry experience** spanning software, hardware, automation, validation, and complex product systems.
+Engineer with **14+ years of industry experience** spanning software, hardware, automation, validation and complex product systems.
 
-Most recently, I worked at **Apple as an RF System Integration Engineer**, supporting iPhone and iPad programs from design through validation and mass production. My work included system-level debugging, wireless performance analysis, and building **Python/C++ automation, validation, and data-analysis tools**.
+Most recently, I worked at **Apple as an RF System Integration Engineer**, supporting iPhone and iPad programs from design through validation and mass production. My work included system-level debugging, wireless performance analysis and building **Python/C++ automation, validation, and data-analysis tools**.
 
-Before Apple, I worked at **Skyworks Solutions from 2011 to 2022**, progressing to Staff Engineer and designing both **hardware and software for production-scale RF test systems**, including C/C++ test software, automation, instrumentation, diagnostics, and RF hardware.
+Before Apple, I worked at Skyworks Solutions, progressing from Junior Engineer in Mexico to Staff Engineer in the U.S., designing hardware and software for RF test systems from early product development through mass production.
 
 I recently completed an **M.S. in Electrical Engineering at Stanford University**, with graduate work in reinforcement learning, LLM fine-tuning, computer vision, and robotics.
 
