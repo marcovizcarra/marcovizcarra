@@ -22,8 +22,8 @@ Developed and evaluated a frontier curriculum for RLOO fine-tuning of **Qwen2.5-
 
 * Improved **pass@1 from 0.41 → 0.49** over vanilla RLOO
 * Improved average verifier score from **0.46 → 0.52**
-* Implemented and evaluated frontier-memory retrieval and replay-ratio ablations
-* Explored curriculum design for more efficient RL post-training
+* Implemented frontier-memory retrieval and replay strategies
+* Evaluated replay-ratio and curriculum-design ablations
 
 [View case study →](https://marcovizcarra.com/work/frontier-curriculum-rloo)
 
@@ -44,6 +44,22 @@ Developed and evaluated part-guided **ConvNeXt** and **SigLIP** models for fine-
 
 ---
 
+### [Data Augmentation for Offline RL](https://marcovizcarra.com/work/offline-rl-generalization)
+
+**Stanford CS234 · Reinforcement Learning**
+
+Studied whether dataset-level visual augmentation could improve offline RL generalization to unseen CoinRun environments.
+
+* Built **11 augmented versions** of fixed expert trajectories while preserving actions, rewards, and transition semantics
+* Evaluated **Behavior Cloning, IQL, and CQL**
+* Tested transfer across **500 unseen levels**
+* Found that mild transformations such as scaling, blur, noise, and small spatial shifts produced the most reliable gains
+* Observed that additional optimization did not always improve generalization
+
+[View case study →](https://marcovizcarra.com/work/offline-rl-generalization)
+
+---
+
 ### [TidyBot2: Language-Guided Mobile Manipulation](https://marcovizcarra.com/work/voice-commanded-mobile-manipulation)
 
 **Stanford CS339R / ME326 · Collaborative Robotics**
@@ -51,22 +67,12 @@ Developed and evaluated part-guided **ConvNeXt** and **SigLIP** models for fine-
 Built the navigation and sim-to-real motion foundation for a TidyBot2 system that translated natural-language commands into autonomous perception, mobile-base navigation, and manipulation.
 
 * Implemented a **50 Hz ROS2** navigation and control loop
-* Built simulation and real-robot validation tools
-* Worked on calibration, coordinate frames, trajectory logging, and safe hardware testing
-* Integrated navigation with a broader perception and manipulation pipeline
+* Developed simulation and real-robot validation tools
+* Worked on calibration, coordinate frames, odometry, and trajectory logging
+* Built safe hardware-testing utilities for sim-to-real debugging
+* Integrated navigation with the broader perception and manipulation pipeline
 
----
-
-### [Safety-Aware Vision-Language-Action Driving](https://marcovizcarra.com/work/safety-aware-vla-driving)
-
-**Stanford CS230 · Deep Learning**
-
-Implemented and integrated a safety/executability prediction head into a language-conditioned autonomous-driving model.
-
-* Added explicit safety prediction to the model architecture
-* Helped design the evaluation methodology
-* Evaluated trajectory quality and instruction-following performance
-* Studied how learned safety representations can influence downstream behavior
+[View case study →](https://marcovizcarra.com/work/voice-commanded-mobile-manipulation)
 
 ---
 
@@ -104,7 +110,7 @@ RF Systems · Embedded Systems · PCB Design · Instrumentation · Automated Tes
 
 ---
 
-### Current Interests
+## Current Interests
 
 I’m interested in challenging technical problems across **applied AI, research engineering, ML systems, robotics, and intelligent physical systems**.
 
