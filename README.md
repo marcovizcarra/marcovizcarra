@@ -46,7 +46,7 @@ Fine-tuned **SigLIP SO400M-384** for fine-grained recognition across 555 NABirds
 
 ## Technical Focus
 
-**Python · PyTorch · C/C++ · ROS2 · MuJoCo **
+**Python · PyTorch · C/C++ · ROS2 · MuJoCo**
 
 Reinforcement Learning · Robot Learning · LLM Fine-Tuning · Multimodal Learning · Computer Vision
 
